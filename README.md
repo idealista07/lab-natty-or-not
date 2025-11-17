@@ -23,16 +23,17 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Ebook didatico com foco na historia do Linux
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot (Conta Dev 365 - https://developer.microsoft.com/en-us/microsoft-365/dev-program) = Criação das imagens e roteiro
+Word = Formatação e criação do PDF
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o Copilot para gerar uma historia epica com bases em fatos historicos e tecnicos sobre a criação e desenvolvimento do Kernel linux, sua estrutura, curiosidades e uso.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como o Kernel e as Distros Linux se tornou uma ferramenta poderosa para usuarios e corporações.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
