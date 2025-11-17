@@ -36,7 +36,7 @@ Utilizei o Copilot para gerar uma historia epica com bases em fatos historicos e
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como o Kernel e as Distros Linux se tornou uma ferramenta poderosa para usuarios e corporações.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi umas experiencia divertida e inovadora.
 ```
 
 ### Exemplos e Insigths
