@@ -6,46 +6,26 @@
 
 Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
 Ebook didatico com foco na historia do Linux
 
 ## 🤖 Tecnologias Utilizadas
-Copilot (Conta Dev 365 - https://developer.microsoft.com/en-us/microsoft-365/dev-program) = Criação das imagens e roteiro
+Copilot (Office 365 Developer) = Criação das imagens e roteiro
 Word = Formatação e criação do PDF
 
 ## 🧐 Processo de Criação
 Utilizei o Copilot para gerar uma historia epica com bases em fatos historicos e tecnicos sobre a criação e desenvolvimento do Kernel linux, sua estrutura, curiosidades e uso.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como o Kernel e as Distros Linux se tornou uma ferramenta poderosa para usuarios e corporações.
+O e-book [TUX-O Imperador do código.pdf](tux.pdf) apresenta um conteúdo envolvente e visualmente rico, demonstrando como o Kernel e as Distros Linux se tornou uma ferramenta poderosa para usuarios e corporações.
 
 ## 💭 Reflexão (Opcional)
-Foi umas experiencia divertida e inovadora.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Foi umas experiencia divertida e inovadora, pretendo dá continuidade ao projeto em markdown no repositorio [TUX-O-Imperador-do-codigo](https://github.com/idealista07/TUX-O-Imperador-do-codigo/blob/main/README.md)
 
 ## Links Interessantes
+[Office 365 Developer](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
